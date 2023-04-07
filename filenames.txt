@@ -1,0 +1,7 @@
+allthefolders
+anotherfile
+filenames
+listoffiles
+reversed-techtorial
+techtorial
+temporary

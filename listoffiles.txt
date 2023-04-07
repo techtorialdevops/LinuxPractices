@@ -1,0 +1,9 @@
+total 24
+-rw-rw-r-- 1 ubuntu ubuntu   2 Apr  7 01:21 allthefolders.txt
+-rw-rw-r-- 1 ubuntu ubuntu  75 Apr  7 01:19 anotherfile.txt
+-rw-rw-r-- 1 ubuntu ubuntu  48 Apr  7 01:39 filenames.txt
+-rw-rw-r-- 1 ubuntu ubuntu   0 Apr  7 01:43 listoffiles.txt
+-rw-rw-r-- 1 ubuntu ubuntu 160 Apr  7 00:24 reversed-techtorial.txt
+-rw-rw-r-- 1 ubuntu ubuntu 160 Apr  7 00:22 techtorial.txt
+-rw-rw-r-- 1 ubuntu ubuntu  75 Apr  7 01:19 temporary.txt
+-On the day of April 7
