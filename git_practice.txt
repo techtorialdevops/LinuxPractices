@@ -9,5 +9,6 @@ we should include a message to the files  so that we can know the
  purpose of the files.
 Then we can create a main branch on the github, then add our 
 credentials, and send it. 
- 
+Git status will help us to see what files can be added to next 
+commit. or which files are different and can be pushed to github. 
 
